@@ -32,4 +32,5 @@ This challenge focuses on **Data Structures and Algorithms (DSA)** to enhance pr
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/move-all-zeroes-to-end-of-array0751">Move all zeroes to end</a></li>
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array">Reverse and array</a></li>
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621">Rotate an array</a></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226">Next permutations</a></li>
  </ol>
