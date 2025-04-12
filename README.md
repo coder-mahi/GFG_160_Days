@@ -38,6 +38,7 @@ This challenge focuses on **Data Structures and Algorithms (DSA)** to enhance pr
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2">Stock Buy and Sell – Max one Transaction Allowed</a></li>
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351">Minimize the Heights II</a></li>
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/kadanes-algorithm-1587115620">Kadane's Algorithm</a></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604">Maximum subarray</a></li>
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/max-circular-subarray-sum-1587115620">Max Circular Subarray Sum</a></li>
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621">Smallest Positive Missing</a></li>
  </ol>
