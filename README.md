@@ -26,22 +26,23 @@ This challenge focuses on **Data Structures and Algorithms (DSA)** to enhance pr
    ```bash
    git clone https://github.com/coder-mahi/GFG_160_Days.git
 
-- **Arrays**  
+- **Arrays**
   <ol>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735">Second Largest</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/move-all-zeroes-to-end-of-array0751">Move all zeroes to end</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array">Reverse and array</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621">Rotate an array</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226">Next permutations</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote">Majority Element II</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615">Stock Buy and Sell – Multiple Transaction Allowed</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2">Stock Buy and Sell – Max one Transaction Allowed</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351">Minimize the Heights II</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/kadanes-algorithm-1587115620">Kadane's Algorithm</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604">Maximum subarray</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/max-circular-subarray-sum-1587115620">Max Circular Subarray Sum</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621">Smallest Positive Missing</a></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735">Second Largest</a> <em>(Day 1 - Easy)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/move-all-zeroes-to-end-of-array0751">Move all Zeroes to End</a> <em>(Day 2 - Easy)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array">Reverse an Array</a> <em>(Day 3 - Easy)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621">Rotate Array</a> <em>(Day 4 - Medium)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226">Next Permutation</a> <em>(Day 5 - Medium)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote">Majority Element II</a> <em>(Day 6 - Medium)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615">Stock Buy and Sell – Multiple Transaction Allowed</a> <em>(Day 7 - Medium)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2">Stock Buy and Sell – Max one Transaction Allowed</a> <em>(Day 8 - Easy)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/minimize-the-heights3351">Minimize the Heights II</a> <em>(Day 9 - Medium)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/kadanes-algorithm-1587115620">Kadane's Algorithm</a> <em>(Day 10 - Medium)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/maximum-product-subarray3604">Maximum Product Subarray</a> <em>(Day 11 - Medium)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/max-circular-subarray-sum-1587115620">Max Circular Subarray Sum</a> <em>(Day 12 - Hard)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621">Smallest Positive Missing</a> <em>(Day 13 - Medium)</em></li>
  </ol>
+
 
 - **Strings**
   <ol>
