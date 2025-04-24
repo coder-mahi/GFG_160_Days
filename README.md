@@ -43,8 +43,13 @@ This challenge focuses on **Data Structures and Algorithms (DSA)** to enhance pr
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621">Smallest Positive Missing</a></li>
  </ol>
 
- - **Strings**
+- **Strings**
   <ol>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi">Implement Atoi</a></li>
-     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/add-binary-strings3805">Add Binary Strings</a></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi">Implement Atoi</a> <em>(Day 14 - Medium)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/add-binary-strings3805">Add Binary Strings</a> <em>(Day 15 - Medium)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/anagram-1587115620">Anagram</a> <em>(Day 16 - Easy)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/non-repeating-character-1587115620">Non Repeating Character</a> <em>(Day 17 - Easy)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/search-pattern-kmp-algorithm">Search Pattern (KMP Algorithm)</a> <em>(Day 18 - Hard)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/minimum-characters-required-to-make-a-string-palindromic">Min Chars to Add for Palindrome</a> <em>(Day 19 - Hard)</em></li>
+     <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/check-if-strings-are-rotations-of-each-other-or-not">Strings Rotations of Each Other</a> <em>(Day 20 - Easy)</em></li>
  </ol>
