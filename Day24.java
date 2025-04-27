@@ -8,32 +8,23 @@ Output: [[1,4], [6,8], [9,10]]
 Explanation: In the given intervals we have only two overlapping intervals here, [1,3] and [2,4] which on merging will become [1,4]. Therefore we will return [[1,4], [6,8], [9,10]].
 */
 class Solution {
-    public List<int[]> mergeOverlap(int[][] intervals) {
+    public List<int[]> mergeOverlap(int[][] arr) {
         // Code here
-        List<int[]> merged = new ArrayList<>();
+        Arrays.sort(arr, (a,b) -> Integer.compare(a[0],b[0]));
+        List<int[]> res = new ArrayList<>();
+        res.add(arr[0]);
         
-        if(intervals.length==0){
-            return merged;
-        }
-        
-        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0],b[0]));
-        
-        int[] current = intervals[0];
-        merged.add(current);
-        
-        for(int[] interval : intervals){
-            int currentStart = current[0];
-            int currentEnd = current[1];
-            int nextStart = interval[0];
-            int nextEnd = interval[1];
+        for(int i=1;i<arr.length;i++){
+            int[] last = res.get(res.size()-1);
+            int[] curr = arr[i];
             
-            if(nextStart <= currentEnd){
-                current[1] = Math.max(currentEnd, nextEnd);
+            if(curr[0]<=last[1]){
+                last[1] = Math.max(last[1],curr[1]);
+                
             }else{
-                current = interval;
-                merged.add(current);
+                res.add(curr);
             }
         }
-        return merged;
+       return res;
     }
 }
