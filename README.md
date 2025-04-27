@@ -43,7 +43,6 @@ This challenge focuses on **Data Structures and Algorithms (DSA)** to enhance pr
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621">Smallest Positive Missing</a> <em>(Day 13 - Medium)</em></li>
  </ol>
 
-
 - **Strings**
   <ol>
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi">Implement Atoi</a> <em>(Day 14 - Medium)</em></li>
@@ -54,3 +53,14 @@ This challenge focuses on **Data Structures and Algorithms (DSA)** to enhance pr
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/minimum-characters-required-to-make-a-string-palindromic">Min Chars to Add for Palindrome</a> <em>(Day 19 - Hard)</em></li>
      <li><a href="https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/check-if-strings-are-rotations-of-each-other-or-not">Strings Rotations of Each Other</a> <em>(Day 20 - Easy)</em></li>
  </ol>
+
+- **Sorting**
+  <ol>
+     <li><a href="#">Sort 0s, 1s and 2s</a> <em>(Day 21 - Medium)</em></li>
+     <li><a href="#">Find H-Index</a> <em>(Day 22 - Medium)</em></li>
+     <li><a href="#">Count Inversions</a> <em>(Day 23 - Medium)</em></li>
+     <li><a href="#">Overlapping Intervals</a> <em>(Day 24 - Medium)</em></li>
+     <li><a href="#">Insert Interval</a> <em>(Day 25 - Medium)</em></li>
+     <li><a href="#">Non-overlapping Intervals</a> <em>(Day 26 - Medium)</em></li>
+     <li><a href="#">Merge Without Extra Space</a> <em>(Day 27 - Medium)</em></li>
+  </ol>
